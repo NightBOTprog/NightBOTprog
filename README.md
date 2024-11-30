@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NightBOTprog
-- 👀 I’m interested in backend python 
-- 🌱 I’m currently learning Django 
+- 👀 I’m interested in backend & frontend, python 
+- 🌱 I’m currently learning JS, CSS 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Telegram @zxcNightBOT
 - 😄 Pronouns: ...
